@@ -1,0 +1,24 @@
+
+
+body {
+    font-family: "Montserrat", sans-serif;
+    background-color: rgb(34, 87, 112);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    font-weight: 200;
+    color: white;
+}
+
+input {
+    font-size: 30px;
+}
+
+li {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 200;
+    color: white;
+}
